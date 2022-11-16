@@ -1,0 +1,10 @@
+html, body {
+    background-color: gray;
+    color: red;
+}
+
+nav {
+    position: fixed;
+    right: 10px;
+    text-align: right;
+}
